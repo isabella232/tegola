@@ -4,12 +4,12 @@ import (
 	"errors"
 	"log"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/basic"
-	"github.com/terranodo/tegola/maths"
-	"github.com/terranodo/tegola/maths/clip/intersect"
-	"github.com/terranodo/tegola/maths/clip/region"
-	"github.com/terranodo/tegola/maths/clip/subject"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/basic"
+	"github.com/airmap/tegola/maths"
+	"github.com/airmap/tegola/maths/clip/intersect"
+	"github.com/airmap/tegola/maths/clip/region"
+	"github.com/airmap/tegola/maths/clip/subject"
 
 	"fmt"
 

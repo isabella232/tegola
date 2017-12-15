@@ -1,6 +1,6 @@
 package hitmap
 
-import "github.com/terranodo/tegola/maths"
+import "github.com/airmap/tegola/maths"
 
 type segEventY struct {
 	x1         int64 // float64

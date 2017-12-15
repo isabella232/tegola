@@ -5,8 +5,8 @@ import (
 
 	colour "github.com/logrusorgru/aurora"
 
-	"github.com/terranodo/tegola/container/singlelist/point/list"
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola/container/singlelist/point/list"
+	"github.com/airmap/tegola/maths"
 )
 
 func (s *Subject) GoString() string {

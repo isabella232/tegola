@@ -9,8 +9,8 @@ import (
 	"testing"
 
 	"github.com/dimfeld/httptreemux"
-	"github.com/terranodo/tegola/mapbox/style"
-	"github.com/terranodo/tegola/server"
+	"github.com/airmap/tegola/mapbox/style"
+	"github.com/airmap/tegola/server"
 )
 
 func TestHandleMapStyle(t *testing.T) {

@@ -11,9 +11,9 @@ import (
 	"github.com/dimfeld/httptreemux"
 	"github.com/dustin/go-humanize"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/atlas"
-	"github.com/terranodo/tegola/mvt"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/atlas"
+	"github.com/airmap/tegola/mvt"
 )
 
 type HandleMapZXY struct {

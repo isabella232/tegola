@@ -3,7 +3,7 @@ package postgis
 import (
 	"testing"
 
-	"github.com/terranodo/tegola"
+	"github.com/airmap/tegola"
 )
 
 func TestReplaceTokens(t *testing.T) {

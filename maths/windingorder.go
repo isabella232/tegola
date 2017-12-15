@@ -1,7 +1,7 @@
 package maths
 
 import (
-	"github.com/terranodo/tegola"
+	"github.com/airmap/tegola"
 )
 
 // WindingOrder the direction the line strings.

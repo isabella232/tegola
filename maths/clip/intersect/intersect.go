@@ -1,7 +1,7 @@
 package intersect
 
 import (
-	"github.com/terranodo/tegola/container/singlelist/point/list"
+	"github.com/airmap/tegola/container/singlelist/point/list"
 )
 
 type Intersect struct {

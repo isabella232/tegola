@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/terranodo/tegola/server"
+	"github.com/airmap/tegola/server"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/terranodo/tegola/wkb"
+	"github.com/airmap/tegola/wkb"
 )
 
 func newPoint(x, y float64) *wkb.Point {

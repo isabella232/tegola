@@ -8,10 +8,10 @@ import (
 
 	"github.com/golang/protobuf/proto"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/basic"
-	"github.com/terranodo/tegola/mvt"
-	"github.com/terranodo/tegola/provider/debug"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/basic"
+	"github.com/airmap/tegola/mvt"
+	"github.com/airmap/tegola/provider/debug"
 )
 
 //	NewMap creates a new map with the necessary default values

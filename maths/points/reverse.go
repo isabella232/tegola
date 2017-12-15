@@ -1,6 +1,6 @@
 package points
 
-import "github.com/terranodo/tegola/maths"
+import "github.com/airmap/tegola/maths"
 
 func Reverse(a []maths.Pt) []maths.Pt {
 	l := len(a) - 1

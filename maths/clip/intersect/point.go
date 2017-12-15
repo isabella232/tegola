@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/terranodo/tegola/container/singlelist"
-	ptList "github.com/terranodo/tegola/container/singlelist/point/list"
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola/container/singlelist"
+	ptList "github.com/airmap/tegola/container/singlelist/point/list"
+	"github.com/airmap/tegola/maths"
 )
 
 type Point struct {

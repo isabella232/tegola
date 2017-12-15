@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/gdey/tbltest"
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola/maths"
 )
 
 func TestSegmentLinesContains(t *testing.T) {

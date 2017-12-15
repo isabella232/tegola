@@ -5,8 +5,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/terranodo/tegola/container/singlelist"
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola/container/singlelist"
+	"github.com/airmap/tegola/maths"
 )
 
 type List struct {

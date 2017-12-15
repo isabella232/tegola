@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	"github.com/dimfeld/httptreemux"
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/atlas"
-	"github.com/terranodo/tegola/mapbox/tilejson"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/atlas"
+	"github.com/airmap/tegola/mapbox/tilejson"
 )
 
 type HandleMapCapabilities struct {

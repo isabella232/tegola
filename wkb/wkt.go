@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-import "github.com/terranodo/tegola"
+import "github.com/airmap/tegola"
 
 /*
 This purpose of this file is to house the wkt functions. These functions are
@@ -105,7 +105,7 @@ func WKT(geo tegola.Geometry) string {
 
 		}
 		var geometries []string
-		for sg := range g.Geometries() {
+		for _, sg := range g.Geometries() {
 			s := WKT(sg)
 			geometries = append(geometries, s)
 		}

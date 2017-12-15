@@ -11,9 +11,9 @@ import (
 	"time"
 
 	svg "github.com/ajstarks/svgo"
-	"github.com/terranodo/tegola/maths"
-	"github.com/terranodo/tegola/maths/hitmap"
-	"github.com/terranodo/tegola/maths/points"
+	"github.com/airmap/tegola/maths"
+	"github.com/airmap/tegola/maths/hitmap"
+	"github.com/airmap/tegola/maths/points"
 )
 
 type Ring struct {

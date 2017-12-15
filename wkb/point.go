@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/basic"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/basic"
 )
 
 //Point is a basic type, this describes a 2D point.

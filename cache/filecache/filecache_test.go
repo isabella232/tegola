@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/terranodo/tegola/cache"
-	"github.com/terranodo/tegola/cache/filecache"
+	"github.com/airmap/tegola/cache"
+	"github.com/airmap/tegola/cache/filecache"
 )
 
 func TestNew(t *testing.T) {

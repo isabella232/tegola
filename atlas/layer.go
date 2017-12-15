@@ -1,8 +1,8 @@
 package atlas
 
 import (
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/mvt"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/mvt"
 )
 
 type Layer struct {

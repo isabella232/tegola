@@ -10,14 +10,14 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/atlas"
-	"github.com/terranodo/tegola/cache"
-	"github.com/terranodo/tegola/config"
-	"github.com/terranodo/tegola/mvt"
-	"github.com/terranodo/tegola/mvt/provider"
-	_ "github.com/terranodo/tegola/provider/debug"
-	_ "github.com/terranodo/tegola/provider/postgis"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/atlas"
+	"github.com/airmap/tegola/cache"
+	"github.com/airmap/tegola/config"
+	"github.com/airmap/tegola/mvt"
+	"github.com/airmap/tegola/mvt/provider"
+	_ "github.com/airmap/tegola/provider/debug"
+	_ "github.com/airmap/tegola/provider/postgis"
 )
 
 var (

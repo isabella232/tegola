@@ -3,9 +3,9 @@ package hitmap
 import (
 	"sort"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/maths"
-	"github.com/terranodo/tegola/maths/points"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/maths"
+	"github.com/airmap/tegola/maths/points"
 )
 
 type Interface interface {

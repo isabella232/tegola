@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/terranodo/tegola/cmd/tegola/cmd"
+	"github.com/airmap/tegola/cmd/tegola/cmd"
 )
 
 func main() {

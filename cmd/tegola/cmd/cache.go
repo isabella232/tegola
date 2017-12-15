@@ -11,10 +11,10 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/atlas"
-	"github.com/terranodo/tegola/cache"
-	"github.com/terranodo/tegola/maths/webmercator"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/atlas"
+	"github.com/airmap/tegola/cache"
+	"github.com/airmap/tegola/maths/webmercator"
 )
 
 var (

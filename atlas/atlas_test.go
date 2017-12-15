@@ -3,10 +3,10 @@ package atlas_test
 import (
 	"context"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/atlas"
-	"github.com/terranodo/tegola/basic"
-	"github.com/terranodo/tegola/mvt"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/atlas"
+	"github.com/airmap/tegola/basic"
+	"github.com/airmap/tegola/mvt"
 )
 
 type testMVTProvider struct{}

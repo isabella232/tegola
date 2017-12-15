@@ -10,7 +10,7 @@ import (
 
 	"errors"
 
-	"github.com/terranodo/tegola"
+	"github.com/airmap/tegola"
 )
 
 const (

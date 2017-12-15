@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/gdey/tbltest"
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola/maths"
 )
 
 func TestAxis_Intersect(t *testing.T) {

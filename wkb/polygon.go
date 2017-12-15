@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/terranodo/tegola"
+	"github.com/airmap/tegola"
 )
 
 //Polygon is a Geometry of one or more rings. The first ring is assumed to be the

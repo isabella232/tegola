@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/terranodo/tegola/cache"
+	"github.com/airmap/tegola/cache"
 )
 
 //	TileCacheHandler implements a request cache for tiles on requests when the URLs

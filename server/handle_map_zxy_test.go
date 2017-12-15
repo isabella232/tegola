@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/dimfeld/httptreemux"
-	"github.com/terranodo/tegola/server"
+	"github.com/airmap/tegola/server"
 )
 
 func TestHandleMapZXY(t *testing.T) {

@@ -1,8 +1,8 @@
 package intersect
 
 import (
-	"github.com/terranodo/tegola/container/singlelist/point/list"
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola/container/singlelist/point/list"
+	"github.com/airmap/tegola/maths"
 )
 
 type Inbound struct {

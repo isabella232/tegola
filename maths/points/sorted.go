@@ -3,7 +3,7 @@ package points
 import (
 	"sort"
 
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola/maths"
 )
 
 func SortAndUnique(pts []maths.Pt) (spts []maths.Pt) {

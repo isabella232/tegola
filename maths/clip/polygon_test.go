@@ -8,11 +8,11 @@ import (
 	"testing"
 
 	"github.com/gdey/tbltest"
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/basic"
-	"github.com/terranodo/tegola/maths"
-	"github.com/terranodo/tegola/maths/clip/internal/draw"
-	"github.com/terranodo/tegola/maths/clip/region"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/basic"
+	"github.com/airmap/tegola/maths"
+	"github.com/airmap/tegola/maths/clip/internal/draw"
+	"github.com/airmap/tegola/maths/clip/region"
 )
 
 type PolygonTestCase struct {

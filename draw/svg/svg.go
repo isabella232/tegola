@@ -6,8 +6,8 @@ import (
 	"io"
 
 	svg "github.com/ajstarks/svgo"
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/maths"
 )
 
 const DefaultSpacing = 10

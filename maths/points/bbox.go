@@ -3,7 +3,7 @@ package points
 import (
 	"math"
 
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola/maths"
 )
 
 type BoundingBox [4]float64

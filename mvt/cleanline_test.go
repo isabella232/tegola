@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/gdey/tbltest"
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/basic"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/basic"
 )
 
 func TestCleanline(t *testing.T) {

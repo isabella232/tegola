@@ -5,9 +5,9 @@ import (
 
 	"context"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/basic"
-	"github.com/terranodo/tegola/mvt/vector_tile"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/basic"
+	"github.com/airmap/tegola/mvt/vector_tile"
 )
 
 func TestEncodeGeometry(t *testing.T) {

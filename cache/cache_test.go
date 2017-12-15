@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/terranodo/tegola/cache"
+	"github.com/airmap/tegola/cache"
 )
 
 func TestParseKey(t *testing.T) {

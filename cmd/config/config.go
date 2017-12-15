@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/config"
-	"github.com/terranodo/tegola/provider/postgis"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/config"
+	"github.com/airmap/tegola/provider/postgis"
 )
 
 type C struct {

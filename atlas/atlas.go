@@ -4,10 +4,10 @@ import (
 	"context"
 	"sync"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/cache"
-	_ "github.com/terranodo/tegola/cache/filecache"
-	_ "github.com/terranodo/tegola/cache/s3cache"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/cache"
+	_ "github.com/airmap/tegola/cache/filecache"
+	_ "github.com/airmap/tegola/cache/s3cache"
 )
 
 //	DefaultAtlas is instanitated for convenience

@@ -3,8 +3,8 @@ package basic
 import (
 	"fmt"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/maths"
 )
 
 // Point describes a simple 2d point

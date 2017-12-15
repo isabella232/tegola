@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/wkb"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/wkb"
 )
 
 func TestForEachFeature(t *testing.T) {

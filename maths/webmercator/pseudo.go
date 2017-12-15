@@ -6,7 +6,7 @@ import (
 	"errors"
 	"log"
 
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola/maths"
 )
 
 const (

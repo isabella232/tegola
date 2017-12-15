@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/terranodo/tegola"
+	"github.com/airmap/tegola"
 )
 
 // LineString describes a line, that is made up of two or more points

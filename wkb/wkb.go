@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/terranodo/tegola"
+	"github.com/airmap/tegola"
 )
 
 //  geometry types

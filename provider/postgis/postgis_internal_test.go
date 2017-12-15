@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/basic"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/basic"
 )
 
 func TestLayerGeomType(t *testing.T) {

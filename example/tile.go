@@ -8,9 +8,9 @@ import (
 	"context"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/mvt"
-	"github.com/terranodo/tegola/wkb"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/mvt"
+	"github.com/airmap/tegola/wkb"
 )
 
 // TileExample is a quick example of how to use the interface to marshal a tile.

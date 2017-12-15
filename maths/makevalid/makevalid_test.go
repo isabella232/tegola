@@ -8,8 +8,8 @@ import (
 
 	"github.com/gdey/tbltest"
 	"github.com/go-test/deep"
-	"github.com/terranodo/tegola/maths"
-	"github.com/terranodo/tegola/maths/hitmap"
+	"github.com/airmap/tegola/maths"
+	"github.com/airmap/tegola/maths/hitmap"
 )
 
 func TestPointPairs(t *testing.T) {

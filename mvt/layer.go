@@ -11,8 +11,8 @@ import (
 
 	"context"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/mvt/vector_tile"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/mvt/vector_tile"
 )
 
 var simplifyGeometries = true

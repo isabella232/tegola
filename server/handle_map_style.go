@@ -11,9 +11,9 @@ import (
 	"github.com/dimfeld/httptreemux"
 	"gopkg.in/go-playground/colors.v1"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/atlas"
-	"github.com/terranodo/tegola/mapbox/style"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/atlas"
+	"github.com/airmap/tegola/mapbox/style"
 )
 
 type HandleMapStyle struct {

@@ -10,9 +10,9 @@ import (
 
 	"github.com/dimfeld/httptreemux"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/atlas"
-	"github.com/terranodo/tegola/server"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/atlas"
+	"github.com/airmap/tegola/server"
 )
 
 func TestHandleCapabilities(t *testing.T) {

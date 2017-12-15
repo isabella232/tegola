@@ -7,9 +7,9 @@ import (
 	"context"
 
 	"github.com/gdey/tbltest"
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/basic"
-	"github.com/terranodo/tegola/mvt/vector_tile"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/basic"
+	"github.com/airmap/tegola/mvt/vector_tile"
 )
 
 func newTileLayer(name string, keys []string, values []*vectorTile.Tile_Value, features []*vectorTile.Tile_Feature) *vectorTile.Tile_Layer {

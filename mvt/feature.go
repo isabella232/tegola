@@ -7,14 +7,14 @@ import (
 	"log"
 	"os"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/basic"
-	"github.com/terranodo/tegola/maths"
-	"github.com/terranodo/tegola/maths/makevalid"
-	"github.com/terranodo/tegola/maths/points"
-	"github.com/terranodo/tegola/maths/validate"
-	"github.com/terranodo/tegola/mvt/vector_tile"
-	"github.com/terranodo/tegola/wkb"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/basic"
+	"github.com/airmap/tegola/maths"
+	"github.com/airmap/tegola/maths/makevalid"
+	"github.com/airmap/tegola/maths/points"
+	"github.com/airmap/tegola/maths/validate"
+	"github.com/airmap/tegola/mvt/vector_tile"
+	"github.com/airmap/tegola/wkb"
 )
 
 // errors

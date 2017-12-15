@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola/maths"
 )
 
 var validXY *regexp.Regexp

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/terranodo/tegola/atlas"
+	"github.com/airmap/tegola/atlas"
 )
 
 func TestMapEnableLayersByZoom(t *testing.T) {

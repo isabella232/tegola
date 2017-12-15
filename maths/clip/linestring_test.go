@@ -10,10 +10,10 @@ import (
 	"log"
 
 	"github.com/gdey/tbltest"
-	"github.com/terranodo/tegola/basic"
-	"github.com/terranodo/tegola/draw/svg"
-	"github.com/terranodo/tegola/maths"
-	"github.com/terranodo/tegola/maths/clip/region"
+	"github.com/airmap/tegola/basic"
+	"github.com/airmap/tegola/draw/svg"
+	"github.com/airmap/tegola/maths"
+	"github.com/airmap/tegola/maths/clip/region"
 )
 
 var showPng = flag.Bool("drawPNG", false, "Draw the PNG for the test cases even if the testcase passes.")

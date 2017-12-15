@@ -1,8 +1,8 @@
 package basic
 
 import (
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/maths"
 )
 
 // Polygon describes a basic polygon; made up of multiple lines.

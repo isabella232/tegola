@@ -7,10 +7,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/basic"
-	"github.com/terranodo/tegola/mvt"
-	"github.com/terranodo/tegola/mvt/provider"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/basic"
+	"github.com/airmap/tegola/mvt"
+	"github.com/airmap/tegola/mvt/provider"
 )
 
 const Name = "debug"

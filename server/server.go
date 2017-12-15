@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/dimfeld/httptreemux"
-	"github.com/terranodo/tegola/atlas"
+	"github.com/airmap/tegola/atlas"
 )
 
 const (

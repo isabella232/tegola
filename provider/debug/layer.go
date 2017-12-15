@@ -1,6 +1,6 @@
 package debug
 
-import "github.com/terranodo/tegola"
+import "github.com/airmap/tegola"
 
 type Layer struct {
 	name     string

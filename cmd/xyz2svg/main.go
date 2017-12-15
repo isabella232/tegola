@@ -11,13 +11,13 @@ import (
 
 	"context"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/config"
-	"github.com/terranodo/tegola/draw/svg"
-	"github.com/terranodo/tegola/maths/validate"
-	"github.com/terranodo/tegola/mvt"
-	"github.com/terranodo/tegola/provider/postgis"
-	"github.com/terranodo/tegola/wkb"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/config"
+	"github.com/airmap/tegola/draw/svg"
+	"github.com/airmap/tegola/maths/validate"
+	"github.com/airmap/tegola/mvt"
+	"github.com/airmap/tegola/provider/postgis"
+	"github.com/airmap/tegola/wkb"
 )
 
 var configStruct struct {

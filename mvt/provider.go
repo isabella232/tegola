@@ -3,7 +3,7 @@ package mvt
 import (
 	"context"
 
-	"github.com/terranodo/tegola"
+	"github.com/airmap/tegola"
 )
 
 var ErrCanceled = context.Canceled

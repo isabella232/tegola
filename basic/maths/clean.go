@@ -3,9 +3,9 @@ package maths
 import (
 	"fmt"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/basic"
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/basic"
+	"github.com/airmap/tegola/maths"
 )
 
 var ErrUnableToClean = fmt.Errorf("Unable to clean MultiPolygon.")

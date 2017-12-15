@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/wkb"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/wkb"
 )
 
 func (p *Provider) Layer(name string) (Layer, bool) {

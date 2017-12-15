@@ -6,8 +6,8 @@ import (
 
 	"context"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/provider/postgis"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/provider/postgis"
 )
 
 func TestNewProvider(t *testing.T) {

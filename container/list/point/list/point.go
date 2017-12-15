@@ -5,8 +5,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/terranodo/tegola/container/list"
-	"github.com/terranodo/tegola/maths"
+	"github.com/airmap/tegola/container/list"
+	"github.com/airmap/tegola/maths"
 )
 
 type Elementer interface {

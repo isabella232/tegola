@@ -3,8 +3,8 @@ package plyg
 import (
 	"sort"
 
-	"github.com/terranodo/tegola/maths"
-	"github.com/terranodo/tegola/maths/points"
+	"github.com/airmap/tegola/maths"
+	"github.com/airmap/tegola/maths/points"
 )
 
 type Builder struct {

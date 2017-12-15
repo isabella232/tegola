@@ -10,12 +10,12 @@ import (
 
 	"context"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/basic"
-	"github.com/terranodo/tegola/mvt"
-	"github.com/terranodo/tegola/mvt/provider"
-	"github.com/terranodo/tegola/util/dict"
-	"github.com/terranodo/tegola/wkb"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/basic"
+	"github.com/airmap/tegola/mvt"
+	"github.com/airmap/tegola/mvt/provider"
+	"github.com/airmap/tegola/util/dict"
+	"github.com/airmap/tegola/wkb"
 )
 
 const Name = "postgis"

@@ -3,12 +3,12 @@ package validate
 import (
 	"context"
 
-	"github.com/terranodo/tegola"
-	"github.com/terranodo/tegola/basic"
-	"github.com/terranodo/tegola/maths"
-	"github.com/terranodo/tegola/maths/clip"
-	"github.com/terranodo/tegola/maths/hitmap"
-	"github.com/terranodo/tegola/maths/makevalid"
+	"github.com/airmap/tegola"
+	"github.com/airmap/tegola/basic"
+	"github.com/airmap/tegola/maths"
+	"github.com/airmap/tegola/maths/clip"
+	"github.com/airmap/tegola/maths/hitmap"
+	"github.com/airmap/tegola/maths/makevalid"
 )
 
 func CleanLinestring(g []float64) (l []float64, err error) {

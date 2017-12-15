@@ -1,6 +1,6 @@
 package postgis
 
-import "github.com/terranodo/tegola"
+import "github.com/airmap/tegola"
 
 // layer holds information about a query.
 type Layer struct {
